@@ -6,4 +6,4 @@ I’ve worked on projects ranging from a team-built travel app with real-time na
 
 I’m passionate about full-stack development, UI/UX design, and scalable web apps, and I’m excited to keep learning while contributing to teams that value creativity and problem-solving.
 
-[![Sebika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sebika-K&hide=stars&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
