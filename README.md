@@ -4,8 +4,6 @@
 
 A lot of my work sits at the intersection of backend engineering and UI/UX. I’ve built Spring Boot applications with clean, layered architecture; designed React front-ends with Tailwind; and experimented with integrating AI tools into everyday workflows. I like creating systems that feel structured, reliable, and easy to maintain, but also making the user experience simple and friendly.
 
-Some of my favorite projects include a cafe discovery PWA that I designed end-to-end—from the logo and color palette to the search flow and animations, and a travel app my team built with real-time navigation and AI-based itinerary suggestions (I worked on the navigation logic and UI). I really enjoy the whole process: sketching ideas, building features, debugging late-night issues, and finally seeing everything come together.
-
 ### What I’m currently working on
 - Strengthening my CI/CD and debugging workflows  
 - Building full-stack apps that use AI for smarter user interactions  
