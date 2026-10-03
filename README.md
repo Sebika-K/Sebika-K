@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="./banner.svg" width="100%">
 </p><img width="1200" height="360" alt="banner" src="https://github.com/user-attachments/assets/64d344b9-54ad-493e-9151-aa524903187a" />
 
 
