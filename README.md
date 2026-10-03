@@ -31,7 +31,7 @@ Software engineer at **Utilyze**, building ML training infrastructure for a tran
 <img src="https://skillicons.dev/icons?i=react,tailwind,vite,figma,docker,git,githubactions,gcp" alt="React, Tailwind CSS, Vite, Figma, Docker, Git, GitHub Actions, Google Cloud">
 
 ### 💌 Say hi
-[Portfolio](https://sebika-khulal.vercel.app/)
+[Portfolio](https://sebika-khulal.vercel.app/) </br>
 [LinkedIn](https://www.linkedin.com/in/sebika-khulal/)
 
 <p align="center">⋆｡˚ ☁︎ off the clock: doodling in Procreate or chasing sunsets ☁︎ ˚｡⋆</p>
